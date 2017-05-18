@@ -1,4 +1,0 @@
-C:\Users\ED\Documents\Visual Studio 2013\Projects\ConvertOldAsposeDocToNewPDF_Library\bin\Debug\ConvertOldAsposeDocToNewPDF_Library.dll
-C:\Users\ED\Documents\Visual Studio 2013\Projects\ConvertOldAsposeDocToNewPDF_Library\bin\Debug\ConvertOldAsposeDocToNewPDF_Library.pdb
-C:\Users\ED\Documents\Visual Studio 2013\Projects\ConvertOldAsposeDocToNewPDF_Library\obj\Debug\ConvertOldAsposeDocToNewPDF_Library.dll
-C:\Users\ED\Documents\Visual Studio 2013\Projects\ConvertOldAsposeDocToNewPDF_Library\obj\Debug\ConvertOldAsposeDocToNewPDF_Library.pdb
