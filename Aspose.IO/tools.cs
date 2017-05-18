@@ -8,7 +8,7 @@ using System.IO;
 
 namespace Aspose.IO
 {
-    public class tools
+    public class Tools
     {
 
         // 2017/5/17 穎驊新增此Library 專案，用意為界接 新舊 Aspose 版本功能差異的問題
