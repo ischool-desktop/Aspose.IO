@@ -1,8 +1,0 @@
-C:\Users\ED\Documents\Visual Studio 2013\Projects\ConvertOldAsposeDocToNewPDF_Library\bin\Debug\Aspose.IO.dll
-C:\Users\ED\Documents\Visual Studio 2013\Projects\ConvertOldAsposeDocToNewPDF_Library\bin\Debug\Aspose.IO.pdb
-C:\Users\ED\Documents\Visual Studio 2013\Projects\ConvertOldAsposeDocToNewPDF_Library\obj\Debug\Aspose.IO.dll
-C:\Users\ED\Documents\Visual Studio 2013\Projects\ConvertOldAsposeDocToNewPDF_Library\obj\Debug\Aspose.IO.pdb
-C:\Users\ED\Documents\ischool_github\Aspose.IO\Aspose.IO\bin\Debug\Aspose.IO.dll
-C:\Users\ED\Documents\ischool_github\Aspose.IO\Aspose.IO\bin\Debug\Aspose.IO.pdb
-C:\Users\ED\Documents\ischool_github\Aspose.IO\Aspose.IO\obj\Debug\Aspose.IO.dll
-C:\Users\ED\Documents\ischool_github\Aspose.IO\Aspose.IO\obj\Debug\Aspose.IO.pdb
